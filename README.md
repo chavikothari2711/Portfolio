@@ -44,9 +44,9 @@ In making of this Porfolio
 
 Here are some of the projects featured in this portfolio:
 
-1.[Milan Silk Mills](https://enthusiastic-gloves-jay.cyclic.app/): Mern stack ecommerce app for saree with simple css.
-2. [Whispers of Heart](https://calm-rose-llama-ring.cyclic.app/): NOde and ejs templating Blogging website.
-3. [Harry Potter Trivia](https://chavikothari2711.github.io/HarryPotterTrivia/):Simple HTML, CSS, JS project for harry potter lovers
+- [Milan Silk Mills](https://enthusiastic-gloves-jay.cyclic.app/): Mern stack ecommerce app for saree with simple css.
+- [Whispers of Heart](https://calm-rose-llama-ring.cyclic.app/): NOde and ejs templating Blogging website.
+- [Harry Potter Trivia](https://chavikothari2711.github.io/HarryPotterTrivia/):Simple HTML, CSS, JS project for harry potter lovers
 
 ## Contact
 
