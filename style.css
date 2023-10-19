@@ -160,6 +160,7 @@ body{
 .aboutMeHeading{
   font-family: 'Poppins', sans-serif;
   text-align: center;
+  font-weight: 600;
 }
 .aboutMe{
   margin-top: 5%;
@@ -230,30 +231,33 @@ ul li:nth-child(3) a:before{
 ul li:nth-child(4) a:before{
   background: #171515 ;
 }
+ul li:nth-child(5) a:before{
+  background: #00acee ;
+}
 /* education */
-#education{
+#skills{
   position: relative;
   top:400px;
 }
-
-.educationIcon{
-  display: flex;
+.skillsList{
+  flex-direction: column;
+}
+.skillsList li{
+  list-style-type: disc;
+}
+.skills-card h3{
+  font-weight: 500;
+  border-bottom: 0.5px solid ;
+}
+.skills-card{
+  width: max-content;
+}
+.skillsRow{
   margin-top: 20px;
-  text-align: center;
-}
-.educationText{
-  text-align:left;
-  margin-left: 15px;
-  line-height: 1.5;
-}
-.icons{
-  padding: 2px;
-  font-size: 4em;
-  color: #171717;
-  transition: transform 0.5s;
-}
-.icons:hover{
-  transform: scale(1.2);
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+
 }
 /* project */
 #project{
